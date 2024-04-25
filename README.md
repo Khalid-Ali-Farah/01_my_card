@@ -2,7 +2,7 @@
 
 MyCard is a simple app designed to showcase a digital business card. It allows users to display their image, name, job title, and contact information easily.
 
-## Video Demo
+## My card app image
 
 ![Screenshot 1](screenshots/screenshot1.png)
 
