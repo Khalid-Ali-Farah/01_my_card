@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
                   child: Text(
                     'Khalid Ali',
                     style: TextStyle(
-                      fontSize: 30,
+                      fontSize: 30.0,
                       color: Colors.black,
                       fontWeight: FontWeight.bold,
                       fontFamily: 'RobotoSlab',
@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
                 Text(
                   'SOFTWARE DEVELOPER',
                   style: TextStyle(
-                    fontSize: 22,
+                    fontSize: 22.0,
                     color: Colors.black,
                   ),
                 ),
@@ -47,14 +47,14 @@ class MyApp extends StatelessWidget {
                   textAlign: TextAlign.center,
                   'Software Developer Front-End Development Mobile App Development Enthusiast',
                   style: TextStyle(
-                    fontSize: 14,
+                    fontSize: 14.0,
                     color: Color(0xFF726969),
                   ),
                 ),
               ],
             ),
             Padding(
-              padding: EdgeInsets.symmetric(horizontal: 77, vertical: 20),
+              padding: EdgeInsets.symmetric(horizontal: 77.0, vertical: 20.0,
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
@@ -65,29 +65,29 @@ class MyApp extends StatelessWidget {
 
                         'CONTACT',
                         style: TextStyle(
-                            fontSize: 15,
+                            fontSize: 15.0,
                             color: Colors.black,
                             fontWeight: FontWeight.bold),
                       ),
                     ],
                   ),
                   Divider(
-                    height: 10,
+                    height: 10.0,
                     color: Colors.black,
                   ),
                   SizedBox(
-                    height: 15,
+                    height: 15.0,
                   ),
                   Row(
                     children: [
                       Image(
                         image: AssetImage('images/google.png'),
-                        width: 25,
+                        width: 25.0,
                         color: Colors.black,
                       ),
                       SizedBox(
-                        height: 40,
-                        width: 10,
+                        height: 40.0,
+                        width: 10.0,
                       ),
                       Text('khalid.ali.farah.15@gmail.com'),
                     ],
@@ -96,12 +96,12 @@ class MyApp extends StatelessWidget {
                     children: [
                       Image(
                         image: AssetImage('images/git.png'),
-                        width: 25,
+                        width: 25.0,
                         color: Colors.black,
                       ),
                       SizedBox(
-                        height: 40,
-                        width: 10,
+                        height: 40.0,
+                        width: 10.0,
                       ),
                       Text('Khalid-Ali-Farah'),
                     ],
@@ -110,17 +110,17 @@ class MyApp extends StatelessWidget {
                     children: [
                       Image(
                         image: AssetImage('images/in.png'),
-                        width: 25,
+                        width: 25.0,
                         color: Colors.black,
                       ),
                       SizedBox(
-                        height: 40,
-                        width: 10,
+                        height: 40.0,
+                        width: 10.0,
                       ),
                       Text(
                         'khalid-ali-farah',
                         style: TextStyle(
-                          fontSize: 14,
+                          fontSize: 14.0,
                         ),
                       ),
                     ],
