@@ -4,7 +4,7 @@ MyCard is a simple app designed to showcase a digital business card. It allows u
 
 ## Video Demo
 
-[![MyCard Video Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+![Screenshot 1](screenshots/screenshot1.png)
 
 A few resources to get you started if this is your first Flutter project:
 
