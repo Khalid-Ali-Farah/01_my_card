@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
                   ),
                   // backgroundColor: Colors.black,
 
-                  radius: 60.0,
+                  radius: 65.0,
                 ),
                 Padding(
                   padding: EdgeInsets.all(8.0),
