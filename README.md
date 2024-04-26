@@ -4,7 +4,7 @@ MyCard is a simple app designed to showcase a digital business card. It allows u
 
 ## My card app image
 
-![Image](01_my_card/my_card_image.png)
+![MyCard Image](01_my_card/my_card_image.png)
 
 
 
