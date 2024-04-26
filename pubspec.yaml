@@ -63,9 +63,9 @@ flutter:
   assets:
     - images/
   fonts:
-    - family: RobotoSlab
+    - family: Roboto
       fonts:
-        - asset: font/RobotoSlab-VariableFont_wght.ttf
+        - asset: font/Roboto-Italic.ttf
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
