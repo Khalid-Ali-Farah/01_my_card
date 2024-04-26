@@ -2,7 +2,7 @@
 
 MyCard is a simple app designed to showcase a digital business card. It allows users to display their image, name, job title, and contact information easily.
 
-## My card app image
+## MyCard Preview
 
 ![MyCard Image](my_card_image.png)
 
