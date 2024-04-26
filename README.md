@@ -1,10 +1,14 @@
 # my_card
 
-A new Flutter project.
+MyCard is a simple app designed to showcase a digital business card. It allows users to display their image, name, job title, and contact information easily.
 
-## Getting Started
+## My card app image
 
-This project is a starting point for a Flutter application.
+![Image]()
+
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
